@@ -1,8 +1,3 @@
-/**
- * @file TimeTable UI
- * @author wangyixin<wangyixin@4paradigm.com>
- */
-
 import React, { Component } from 'react'
 import style from './style'
 import { Tooltip } from 'ui'
